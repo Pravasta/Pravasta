@@ -6,7 +6,7 @@
 </h3>
 
 <h3 align="center">
-  <samp> Welcome to My Githubb! 👋👋👋 </samp>
+  <samp> Welcome to My Githubb! <img alt="Hello" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="33px"> </samp>
 </h3>
 
 <br>
