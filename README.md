@@ -26,6 +26,8 @@
 <br>
 
 🌱 I’m currently learning Flutter and Data Analyst - Python
+⚡ Fun fact: I am a beginner and want to be a hero 😄
+
 <p align="center">
   <a href="https://github.com/Pravasta"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Mathematics;Learner+Software+Developer+|+Data+Analyst;%20Flutter%20|%20Python%20;Currently+Learning&center=true&width=500&height=50"></a>
 </p>
@@ -56,7 +58,18 @@
 <br>
 <br>
 
-  <a href="https://github.com/Pravasta?tab=repositories" target="_blank"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+### Github Stats:
+
+<p align="center">
+  <a href="https://github.com/Pravasta">
+    <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=Pravasta&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/Pravasta">
+    <img align="center" height="175px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pravasta&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pravasta&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="Pravasta" /></p>
+
 
 <!--
 **Pravasta/Pravasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
