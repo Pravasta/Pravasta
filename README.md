@@ -1,9 +1,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Pravasta.Pravasta)
-<h3 align="center">
+<h3 align="center" >
         <samp> Hey Prendd!, I am
                 <b>Pravasta</b> 
         </samp>
 </h3>
+
+<p align="center"> <img alt="Hallo" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"/> </p>
 
 <h3 align="center">
   <samp> Welcome to My Githubb! 😄 </samp> 
