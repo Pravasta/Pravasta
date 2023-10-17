@@ -5,9 +5,9 @@
         </samp>
 </h3>
 
-<h2 align="center">
+<h3 align="center">
   <samp> Welcome to My Githubb! 👋👋👋 </samp>
-</h2>
+</h3>
 
 <br>
 
@@ -23,8 +23,7 @@
  </a> 
 </p>
 
-### Hello prend 👋
-### Welcomee yo my Githubb
+<br>
 
 🌱 I’m currently learning Flutter and Data Analyst - Python
 
