@@ -1,11 +1,27 @@
 
+<h3 align="center">
+        <samp> Hey Prendd!, I am
+                <b>Pravasta</b> 
+        </samp>
+</h3>
+
 <h2 align="center">
-  Welcome to Al Siam World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <samp> Welcome to My Githubb! 👋👋👋 </samp>
 </h2>
 
+<br>
 
-
+<p align="center">
+ <a href="https://www.linkedin.com/in/pravasta-rama-f-004367211/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Pravasta"/>
+ </a>
+ <a href="https://x.com/pravasta_rama?t=vTF-Zgr_FbS2tDoxbVqKBQ&s=09" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ </a>
+ <a href="www.instagram.com/fitrayanaf" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Fitrayanaf" />
+ </a> 
+</p>
 
 ### Hello prend 👋
 ### Welcomee yo my Githubb
