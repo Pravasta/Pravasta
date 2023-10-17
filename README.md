@@ -27,7 +27,7 @@
 
 🌱 I’m currently learning Flutter and Data Analyst - Python
 <p align="center">
-  <a href="https://github.com/Pravasta/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Mathematics;Learner+Software+Developer+|+Data+Analyst;%20Flutter%20|%20Python%20;Currently+Learning&center=true&width=500&height=50"></a>
+  <a href="https://github.com/Pravasta"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Mathematics;Learner+Software+Developer+|+Data+Analyst;%20Flutter%20|%20Python%20;Currently+Learning&center=true&width=500&height=50"></a>
 </p>
 
 ### Tools and Languages:
