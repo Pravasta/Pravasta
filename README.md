@@ -25,8 +25,8 @@
 
 <br>
 
-🌱 I’m currently learning Flutter and Data Analyst - Python
-⚡ Fun fact: I am a beginner and want to be a hero 😄
+- 🌱 I’m currently learning Flutter and Data Analyst - Python
+- ⚡ Fun fact: I am a beginner and want to be a hero 😄
 
 <p align="center">
   <a href="https://github.com/Pravasta"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Mathematics;Learner+Software+Developer+|+Data+Analyst;%20Flutter%20|%20Python%20;Currently+Learning&center=true&width=500&height=50"></a>
