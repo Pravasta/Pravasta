@@ -26,6 +26,9 @@
 <br>
 
 🌱 I’m currently learning Flutter and Data Analyst - Python
+<p align="center">
+  <a href="https://github.com/Pravasta/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Graduate+Mathematics;Learner+Software+Developer+|+Data+Analyst;%20Flutter%20|%20Python%20;Currently+Learning&center=true&width=500&height=50"></a>
+</p>
 
 ### Tools and Languages:
 
@@ -50,7 +53,11 @@
 <img align="left" alt="Postman" width="26px" src="https://skillicons.dev/icons?i=postman" />
 <img align="left" alt="Laravel" width="26px" src="https://skillicons.dev/icons?i=laravel" />
 
-
+<br>
+<br>
+<p align="left">
+  <a href="https://github.com/Pravasta?tab=repositories" target="_blank"><img alt="Repositories" title="Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 <!--
 **Pravasta/Pravasta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
