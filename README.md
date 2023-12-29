@@ -50,12 +50,12 @@
 <img align="left" alt="Github" width="26px" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="Matplotlib" width="26px" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" />
 <img align="left" alt="Matplotlib" width="26px" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" />
-<img align="left" alt="Excel" width="26px" src="https://www.freepnglogos.com/uploads/excel-png-logo/supported-platforms-excel-logo-png-3.png" />
 <img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="Firebase" width="26px" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="Figma" width="26px" src="https://skillicons.dev/icons?i=figma" />
 <img align="left" alt="Postman" width="26px" src="https://skillicons.dev/icons?i=postman" />
-<img align="left" alt="Laravel" width="26px" src="https://skillicons.dev/icons?i=laravel" />
+<img align="left" alt="Excel" width="26px" src="https://www.freepnglogos.com/uploads/excel-png-logo/supported-platforms-excel-logo-png-3.png" />
+<img align="left" alt="PowerBI" width="26px" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo.png" />
 
 <br>
 <br>
