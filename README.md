@@ -55,7 +55,7 @@
 <img align="left" alt="Figma" width="26px" src="https://skillicons.dev/icons?i=figma" />
 <img align="left" alt="Postman" width="26px" src="https://skillicons.dev/icons?i=postman" />
 <img align="left" alt="Excel" width="26px" src="https://www.freepnglogos.com/uploads/excel-png-logo/supported-platforms-excel-logo-png-3.png" />
-<img align="left" alt="PowerBI" width="26px" src="https://logohistory.net/wp-content/uploads/2023/05/Power-BI-Logo.png" />
+<img align="left" alt="PowerBI" width="26px" src="https://store-images.s-microsoft.com/image/apps.32245.13510798883380398.61d03499-1b25-4924-9207-9384fe3b5b99.3a505d26-d272-4f46-a46b-46dd22268443?h=380" />
 
 <br>
 <br>
