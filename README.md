@@ -27,7 +27,7 @@
 
 <br>
 
-- 🌱 I’m currently learning Flutter and Data Analyst - Python
+- 🌱 I’m currently learning Flutter and Data Analyst - Excell & Power BI
 - ⚡ Fun fact: I am a beginner and want to be a hero 😄
 
 <p align="center">
