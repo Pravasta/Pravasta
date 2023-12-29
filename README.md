@@ -50,7 +50,7 @@
 <img align="left" alt="Github" width="26px" src="https://skillicons.dev/icons?i=github" />
 <img align="left" alt="Matplotlib" width="26px" src="https://avatars.githubusercontent.com/u/215947?s=200&v=4" />
 <img align="left" alt="Matplotlib" width="26px" src="https://raw.githubusercontent.com/github/explore/d530d6a3a171a53f7b8eb4e9e005136e7ebd898f/topics/numpy/numpy.png" />
-<img align="left" alt="Excel" width="26px" src="https://www.logo.wine/a/logo/Microsoft_Excel/Microsoft_Excel-Logo.wine.svg" />
+<img align="left" alt="Excel" width="26px" src="https://prnt.sc/XKy38rxcIwZd" />
 <img align="left" alt="Python" width="26px" src="https://skillicons.dev/icons?i=python" />
 <img align="left" alt="Firebase" width="26px" src="https://skillicons.dev/icons?i=firebase" />
 <img align="left" alt="Figma" width="26px" src="https://skillicons.dev/icons?i=figma" />
